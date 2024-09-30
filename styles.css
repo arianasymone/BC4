@@ -1,0 +1,32 @@
+/* Styling for the <h1> tag */
+h1 {
+    background: url('cougarHeader.png') no-repeat right #000066; /* Dark blue with background image, no repeat, positioned right */
+    color: #e4e4f1;           /* Light blue */
+}
+
+/* Styling for the <h2> tag */
+h2 {
+    background-color: #aaaaf2; /* Light blue */
+    color: #1412a7;            /* Medium blue */
+    clear: left;               /* Clears any floated elements on the left */
+}
+
+/* Styling for the element with the ID "contact" */
+#contact {
+    color: #05a11c; /* Green */
+}
+
+/* Styling for elements with the class "meeting" */
+.meeting {
+    color: #f0c20c; /* Gold */
+}
+
+/* Styling for <img> elements */
+img {
+    float: left; /* Image floats to the left */
+}
+
+/* Styling for <p> elements inside <footer> */
+footer p {
+    text-align: center; /* Text is centered in the paragraph inside the footer */
+}
